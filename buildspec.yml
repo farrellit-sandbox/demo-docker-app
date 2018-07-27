@@ -1,9 +1,0 @@
-# todo: this should be reusable
-
-version: 0.2
-phases:
-  install: 
-    commands: []
-  build:
-    commands:
-     - python ./build.py
